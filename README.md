@@ -2,7 +2,7 @@
 
 A simple and fun Rock, Paper, Scissors game implemented using HTML, CSS, and JavaScript. This game allows you to play against the computer, which randomly selects its moves.
 
-![Game Screenshot](assets/Rock%20Paper%20Scissors.jpeg.png)
+![Game Screenshot](assets/Rock%20Paper%20Scissors.jpeg)
 
 ## Features
 
